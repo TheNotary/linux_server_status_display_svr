@@ -1,0 +1,4 @@
+** 0.0.x **
+  - Make controller that listens to get requests and performs commands
+  - Test that it works
+	- Call it a day,
